@@ -1,0 +1,2 @@
+# Nifty-50-2000-2021-Analysis---Power-BI-Project
+Nifty-50 last 21 years (2000-22) data was collected and ETL ( including data cleaning) was done on Power BI. Data Analysis was done using DAX and data modeling. Data visualization was created to understand the possible ROI, stocks trends, most profitable and least profitable stocks and various other things on multiple parameters to understand the stock market better.
